@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ez Win Cheats
 
 You can use the [editor on GitHub](https://github.com/sajadfx96/ezwin/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
