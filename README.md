@@ -6,4 +6,4 @@ LOL orbwalker:
   updated to 12.5 patch
   
 roblox exploit:
-  updated 2022.2.17
+  updated 2022.8.2
